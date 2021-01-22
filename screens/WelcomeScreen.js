@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Alert, StyleSheet, Text, TextInput, TouchableOpacity, View, ScrollView, KeyboardAvoidingView} from 'react-native';
-import Modal from 'react-native-modal'
+import { Alert, StyleSheet, Text, TextInput, TouchableOpacity, View, ScrollView, KeyboardAvoidingView, Modal} from 'react-native';
 import db from '../config'
 import firebase from 'firebase'
 
